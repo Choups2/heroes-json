@@ -152,44 +152,6 @@
         }
     },
     {
-        "superhero":"Blue Beetle", 
-        "publisher":"DC Comics", 
-        "alter_ego":"Dan Garret",
-        "first_appearance":"Mystery Men Comics #1",
-        "characters":"Dan Garret, Ted Kord, Jaime Reyes",
-        "local": "false",
-        "img": "./img/bluebeetle.jpg",
-        "gender": "male",
-        "superpower": "",
-        "powerstats": {
-            "intelligence": "85",
-            "strength": "90",
-            "speed": "80",
-            "durability": "70",
-            "power": "80",
-            "combat": "60"
-        }
-    },
-    {
-        "superhero":"Black Canary", 
-        "publisher":"DC Comics", 
-        "alter_ego":"Dinah Drake",
-        "first_appearance":"Flash Comics #86",
-        "characters":"Dinah Drake, Dinah Lance",
-        "local": "false",
-        "img": "./img/blackcanary.jpg",
-        "gender": "female",
-        "superpower": "",
-        "powerstats": {
-            "intelligence": "90",
-            "strength": "70",
-            "speed": "85",
-            "durability": "70",
-            "power": "65",
-            "combat": "60"
-        }
-    },
-    {
         "superhero":"Spider Man", 
         "publisher":"Marvel Comics", 
         "alter_ego":"Peter Parker",
