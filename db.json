@@ -1,0 +1,382 @@
+[
+    {
+        "superhero":"Batman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Bruce Wayne",
+        "first_appearance":"Detective Comics #27",
+        "characters":"Bruce Wayne",
+        "local": "false",
+        "img": "./img/batman.jpg",
+        "gender": "male",
+        "superpower": "none",
+        "powerstats": {
+            "intelligence": "90",
+            "strength": "75",
+            "speed": "80",
+            "durability": "80",
+            "power": "85",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Superman", 
+        "publisher":"DC Comics",
+        "alter_ego":"Kal-El",
+        "first_appearance":"Action Comics #1",
+        "characters":"Kal-El",
+        "local": "false",
+        "img": "./img/superman.jpg",
+        "gender": "male",
+        "superpower": "invulnerability",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "100",
+            "speed": "90",
+            "durability": "70",
+            "power": "85",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Flash", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Jay Garrick",
+        "first_appearance":"Flash Comics #1",
+        "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
+        "local": "false",
+        "img": "./img/flash.jpg",
+        "gender": "male",
+        "superpower": "",
+        "powerstats": {
+            "intelligence": "85",
+            "strength": "65",
+            "speed": "100",
+            "durability": "70",
+            "power": "75",
+            "combat": "60"
+        }
+    },
+    {
+        "superhero":"Green Lantern", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Alan Scott",
+        "first_appearance":"All-American Comics #16",
+        "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+        "local": "false",
+        "img": "./img/greenlantern.jpg",
+        "gender": "male",
+        "superpower": "breath into space",
+        "powerstats": {
+            "intelligence": "75",
+            "strength": "70",
+            "speed": "80",
+            "durability": "85",
+            "power": "90",
+            "combat": "75"
+        }
+    },
+    {
+        "superhero":"Green Arrow", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Oliver Queen",
+        "first_appearance":"More Fun Comics #73",
+        "characters":"Oliver Queen",
+        "local": "false",
+        "img": "./img/greenarrow.jpg",
+        "gender": "male",
+        "superpower": "weapon master",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "70",
+            "speed": "90",
+            "durability": "80",
+            "power": "85",
+            "combat": "80"
+        }
+    },
+    {
+        "superhero":"Wonder Woman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Princess Diana",
+        "first_appearance":"All Star Comics #8",
+        "characters":"Princess Diana",
+        "local": "false",
+        "img": "./img/wonderwoman.jpg",
+        "gender": "female",
+        "superpower": "invulnerability",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "100",
+            "speed": "90",
+            "durability": "70",
+            "power": "85",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Martian Manhunter", 
+        "publisher":"DC Comics", 
+        "alter_ego":"J'onn J'onzz",
+        "first_appearance":"Detective Comics #225",
+        "characters":"Martian Manhunter",
+        "local": "false",
+        "img": "./img/martianmanhunter.jpg",
+        "gender": "male",
+        "superpower": "super strength",
+        "powerstats": {
+            "intelligence": "75",
+            "strength": "90",
+            "speed": "80",
+            "durability": "90",
+            "power": "85",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Robin/Nightwing", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dick Grayson",
+        "first_appearance":"Detective Comics #38",
+        "characters":"Dick Grayson",
+        "local": "false",
+        "img": "./img/robinnightwing.jpg",
+        "gender": "male",
+        "superpower": "none",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "70",
+            "speed": "75",
+            "durability": "80",
+            "power": "80",
+            "combat": "85"
+        }
+    },
+    {
+        "superhero":"Blue Beetle", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dan Garret",
+        "first_appearance":"Mystery Men Comics #1",
+        "characters":"Dan Garret, Ted Kord, Jaime Reyes",
+        "local": "false",
+        "img": "./img/bluebeetle.jpg",
+        "gender": "male",
+        "superpower": "",
+        "powerstats": {
+            "intelligence": "85",
+            "strength": "90",
+            "speed": "80",
+            "durability": "70",
+            "power": "80",
+            "combat": "60"
+        }
+    },
+    {
+        "superhero":"Black Canary", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dinah Drake",
+        "first_appearance":"Flash Comics #86",
+        "characters":"Dinah Drake, Dinah Lance",
+        "local": "false",
+        "img": "./img/blackcanary.jpg",
+        "gender": "female",
+        "superpower": "",
+        "powerstats": {
+            "intelligence": "90",
+            "strength": "70",
+            "speed": "85",
+            "durability": "70",
+            "power": "65",
+            "combat": "60"
+        }
+    },
+    {
+        "superhero":"Spider Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Peter Parker",
+        "first_appearance":"Amazing Fantasy #15",
+        "characters":"Peter Parker",
+        "local": "false",
+        "img": "./img/spiderman.jpg",
+        "gender": "male",
+        "superpower": "spider abilities",
+        "powerstats": {
+            "intelligence": "90",
+            "strength": "80",
+            "speed": "90",
+            "durability": "85",
+            "power": "90",
+            "combat": "95"
+        }
+    },
+    {
+        "superhero":"Captain America", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Steve Rogers",
+        "first_appearance":"Captain America Comics #1",
+        "characters":"Steve Rogers",
+        "local": "false",
+        "img": "./img/captainamerica.jpg",
+        "gender": "male",
+        "superpower": "enhanced performances",
+        "powerstats": {
+            "intelligence": "70",
+            "strength": "90",
+            "speed": "80",
+            "durability": "85",
+            "power": "80",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Iron Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Tony Stark",
+        "first_appearance":"Tales of Suspense #39",
+        "characters":"Tony Stark",
+        "local": "false",
+        "img": "./img/ironman.jpg",
+        "gender": "male",
+        "superpower": "none",
+        "powerstats": {
+            "intelligence": "90",
+            "strength": "90",
+            "speed": "90",
+            "durability": "80",
+            "power": "70",
+            "combat": "70"
+        }
+    },
+    {
+        "superhero":"Thor", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Thor Odinson",
+        "first_appearance":"Journey into Myster #83",
+        "characters":"Thor Odinson",
+        "local": "false",
+        "img": "./img/thor.jpg",
+        "gender": "male",
+        "superpower": "god",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "95",
+            "speed": "90",
+            "durability": "85",
+            "power": "90",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Hulk", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Bruce Banner",
+        "first_appearance":"The Incredible Hulk #1",
+        "characters":"Bruce Banner",
+        "local": "false",
+        "img": "./img/hulk.jpg",
+        "gender": "male",
+        "superpower": "inhuman strength",
+        "powerstats": {
+            "intelligence": "60",
+            "strength": "95",
+            "speed": "60",
+            "durability": "90",
+            "power": "70",
+            "combat": "80"
+        }
+    },
+    {
+        "superhero":"Wolverine", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"James Howlett",
+        "first_appearance":"The Incredible Hulk #180",
+        "characters":"James Howlett",
+        "local": "false",
+        "img": "./img/wolverine.jpg",
+        "gender": "male",
+        "superpower": "claws",
+        "powerstats": {
+            "intelligence": "70",
+            "strength": "80",
+            "speed": "90",
+            "durability": "85",
+            "power": "80",
+            "combat": "90"
+        }
+    },
+    {
+        "superhero":"Daredevil", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Matthew Michael Murdock",
+        "first_appearance":"Daredevil #1",
+        "characters":"Matthew Michael Murdock",
+        "local": "false",
+        "img": "./img/daredevil.jpg",
+        "gender": "male",
+        "superpower": "martial arts",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "85",
+            "speed": "90",
+            "durability": "85",
+            "power": "80",
+            "combat": "85"
+        }
+    },
+    {
+        "superhero":"Hawkeye", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Clinton Francis Barton",
+        "first_appearance":"Tales of Suspense #57",
+        "characters":"Clinton Francis Barton",
+        "local": "false",
+        "img": "./img/hawkeye.jpg",
+        "gender": "male",
+        "superpower": "archery skills",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "75",
+            "speed": "85",
+            "durability": "80",
+            "power": "70",
+            "combat": "80"
+        }
+    },
+    {
+        "superhero":"Cyclops", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Scott Summers",
+        "first_appearance":"X-Men #1",
+        "characters":"Scott Summers",
+        "local": "false",
+        "img": "./img/cyclops.jpg",
+        "gender": "male",
+        "superpower": "lasers",
+        "powerstats": {
+            "intelligence": "80",
+            "strength": "85",
+            "speed": "75",
+            "durability": "80",
+            "power": "85",
+            "combat": "80"
+        }
+    },
+    {
+        "superhero":"Silver Surfer", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Norrin Radd",
+        "first_appearance":"The Fantastic Four #48",
+        "characters":"Norrin Radd",
+        "local": "false",
+        "img": "./img/silversurfer.jpg",
+        "gender": "other",
+        "superpower": "power cosmic",
+        "powerstats": {
+            "intelligence": "85",
+            "strength": "90",
+            "speed": "90",
+            "durability": "90",
+            "power": "95",
+            "combat": "85"
+        }
+    }
+]
