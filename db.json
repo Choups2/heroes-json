@@ -36,24 +36,6 @@
         }
     },
     {
-        "superhero":"Flash", 
-        "publisher":"DC Comics", 
-        "alter_ego":"Jay Garrick",
-        "first_appearance":"Flash Comics #1",
-        "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
-        "img": "./img/flash.jpg",
-        "gender": "male",
-        "superpower": "",
-        "powerstats": {
-            "intelligence": "85",
-            "strength": "65",
-            "speed": "100",
-            "durability": "70",
-            "power": "75",
-            "combat": "60"
-        }
-    },
-    {
         "superhero":"Green Lantern", 
         "publisher":"DC Comics", 
         "alter_ego":"Alan Scott",
@@ -72,24 +54,6 @@
         }
     },
     {
-        "superhero":"Green Arrow", 
-        "publisher":"DC Comics", 
-        "alter_ego":"Oliver Queen",
-        "first_appearance":"More Fun Comics #73",
-        "characters":"Oliver Queen",
-        "img": "./img/greenarrow.jpg",
-        "gender": "male",
-        "superpower": "weapon master",
-        "powerstats": {
-            "intelligence": "80",
-            "strength": "70",
-            "speed": "90",
-            "durability": "80",
-            "power": "85",
-            "combat": "80"
-        }
-    },
-    {
         "superhero":"Wonder Woman", 
         "publisher":"DC Comics", 
         "alter_ego":"Princess Diana",
@@ -103,24 +67,6 @@
             "strength": "100",
             "speed": "90",
             "durability": "70",
-            "power": "85",
-            "combat": "90"
-        }
-    },
-    {
-        "superhero":"Martian Manhunter", 
-        "publisher":"DC Comics", 
-        "alter_ego":"J'onn J'onzz",
-        "first_appearance":"Detective Comics #225",
-        "characters":"Martian Manhunter",
-        "img": "./img/martianmanhunter.jpg",
-        "gender": "male",
-        "superpower": "super strength",
-        "powerstats": {
-            "intelligence": "75",
-            "strength": "90",
-            "speed": "80",
-            "durability": "90",
             "power": "85",
             "combat": "90"
         }
@@ -248,24 +194,6 @@
             "speed": "85",
             "durability": "80",
             "power": "70",
-            "combat": "80"
-        }
-    },
-    {
-        "superhero":"Cyclops", 
-        "publisher":"Marvel Comics", 
-        "alter_ego":"Scott Summers",
-        "first_appearance":"X-Men #1",
-        "characters":"Scott Summers",
-        "img": "./img/cyclops.jpg",
-        "gender": "male",
-        "superpower": "lasers",
-        "powerstats": {
-            "intelligence": "80",
-            "strength": "85",
-            "speed": "75",
-            "durability": "80",
-            "power": "85",
             "combat": "80"
         }
     },
